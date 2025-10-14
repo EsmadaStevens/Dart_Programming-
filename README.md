@@ -1,2 +1,2 @@
 # Dart_Programming-
-Learning Dart programming language 
+Learning the Dart programming language 
